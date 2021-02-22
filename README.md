@@ -7,8 +7,7 @@ Depending on my studies in this course, my role comes in applying what I have le
 
 
 
-## Getting Started
-## Runing with the application locally
+## Getting Started - Runing with the application locally
 ### Installing Dependencies
 
 ##### Python 3.7
