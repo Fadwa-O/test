@@ -8,14 +8,14 @@ Depending on my studies in this course, my role comes in applying what I have le
 
 
 ## Getting Started
-### Working with the application locally
-#### Installing Dependencies
+## Runing with the application locally
+### Installing Dependencies
 
-###### Python 3.7
+##### Python 3.7
 
 Follow instructions to install the latest version of python for your platform in the [python docs](https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-version-of-python)
 
-###### Key Dependencies
+##### Key Dependencies
 
 - [Flask](http://flask.pocoo.org/)  is a lightweight backend microservices framework. Flask is required to handle requests and responses.
 
@@ -23,7 +23,7 @@ Follow instructions to install the latest version of python for your platform in
 
 - [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/#) is the extension we'll use to handle cross origin requests from our frontend server.
 
-###### PIP Dependencies
+##### PIP Dependencies
 Once you have your virtual environment setup and running, install pip dependencies by navigating to the `/starter` directory and running:
 
 ```bash
@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 ```
 This will install all of the required packages.
 
-#### Database Setup
+### Database Setup
 With Postgres running, restore a database using the capstoneFSND.psql file provided. From the starter folder in terminal run:
 
 ```bash
@@ -39,7 +39,7 @@ psql capstoneFSND < capstoneFSND.psql
 ```
 
 
-#### Running the server
+### Running the server
 
 From within the `/starter` directory first ensure you are working using your created virtual environment.
 
