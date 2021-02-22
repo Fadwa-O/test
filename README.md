@@ -68,8 +68,6 @@ python3 test_app.py
 ```
 The first time you run the tests, omit the dropdb command.
 
-All tests are kept in that file and should be maintained as updates are made to app functionality.
-
 
 ## API Reference
 
