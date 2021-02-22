@@ -37,7 +37,7 @@ psql capstoneFSND < capstoneFSND.psql
 ```
 
 
-#### Running the server
+### Running the server
 
 From within the `/starter` directory first ensure you are working using your created virtual environment.
 
